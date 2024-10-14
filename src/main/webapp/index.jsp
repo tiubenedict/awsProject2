@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello Bene!</h2>
+<p>This is your NextWork web application working!</p>
 </body>
 </html>
