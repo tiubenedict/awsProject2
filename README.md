@@ -4,7 +4,7 @@
 Simulating an end-to-end CI/CD Pipeline for a Java web app using AWS Deployment Tools, using CodeArtifact to cache dependencies, CodeBuild to run the build servers, CodeDeploy to deploy to production, CodePipeline to automate these, and CloudFormation to set-up the resource stack.
 
 ## 🏗️ Architecture
-![[awsProject2.drawio.png]]
+![diagram](awsProject2.drawio.png)
 
 ## 🧱 Setup Instructions
 
