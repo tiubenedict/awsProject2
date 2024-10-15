@@ -7,6 +7,17 @@ Simulating an end-to-end CI/CD Pipeline for a Java web app using AWS Deployment 
 ![diagram](awsProject2.drawio.png)
 
 ## 🧱 Setup Instructions
+### Step 1: Set-up project using Maven in EC2
+
+### Step 2: Set-up Code Repo
+
+### Step 3: Set-up CodeArtifact
+
+### Step 4: Set-up CodeBuild
+
+### Step 5: Set-up CodeDeploy
+
+### Step 5: Set-up CodePipeline
 
 ## 🛠️ Configuration Details
 
