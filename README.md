@@ -2,7 +2,7 @@
 
 ## 🌍 Overview
 
-Simulating an end-to-end CI/CD Pipeline for a Java web app using AWS Deployment Tools, using CodeArtifact to cache dependencies, CodeBuild to run the build servers, CodeDeploy to deploy to production, CodePipeline to automate these, and CloudFormation to set-up the resource stack.
+Simulating an end-to-end CI/CD Pipeline for a Java web app using AWS Deployment Tools, using CodeArtifact to cache dependencies, CodeBuild to run the build servers, CodeDeploy to deploy to production, CodePipeline to automate these, and CloudFormation to set-up the resource stacks. The journey is documented in the pdfs through parts 1 to 7.
 
 ## 🏗️ Architecture
 
@@ -77,7 +77,7 @@ Use this step if you want to use the CloudFormation template directly. Otherwise
 2. Create CodeDeploy application and deployment group
 3. Create a Deployment
 
-### Step 5: Set-up CodePipeline
+### Step 6: Set-up CodePipeline
 
 1. Follow the prompts to set-up a new pipeline
 2. Commit new code to repo, and watch the pipeline trigger itself automatically
